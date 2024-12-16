@@ -1,0 +1,14 @@
+NombProducto,Empresa,Planta,País,Ciudad,Tipo de equipo,Material,Causa de desgaste,"Si escogió otros, ¿cuál?",Escoja el desgaste donde se presenta,Tipo de cadena,Referencia cadena,No conformidad,Porcentaje de no conformidad,Tiempo hasta falla (Dias)
+CADENA,HOLCIM,NOBSA,COLOMBIA,BOYACA,Elevador cangilones,CLINKER,Elongación prematura;Desalineación;Otros,DESGASTE DE GUIAS,Platina Interna;Pasador cadena,"CDNA FB984-ADITK443-C2-P7""",FB984,Desgaste,0.98,522
+CADENA,ARGOS,SOGAMOSO,COLOMBIA,SOGAMOSO,Elevador cangilones,CLINKER,Elongación prematura;Cavitación seca,No Aplica,Platina Externa;Pasador cadena,CDNA FB864-K443-C2-P7,FB864,Elongación,1.68,1145
+CADENA,HOLCIM,No Aplica,COLOMBIA,BOYACA,Elevador cangilones,DESCONOCIDO,Desalineación,No Aplica,Platina Externa,"CDNA FB-6830-K2-C2 P 6"" ",FB-683,Elongación,0.26,643
+CADENA,HOLCIM,BOYACA,COLOMBIA,BOYACA,Reclamador y apilador,PIEDRA CALIZA,Elongación prematura;Otros,EXCESIVA TENSION,Platina Externa;Buje cadena;Rodillo,CDNA FB311-TK1-C2-P250,FB311,Desgaste,0.286,396
+CADENA,HOLCIM,HERMOSILLO,MEXICO,HERMOSILLO,Elevador cangilones,"PUZOLANA, CALIZA",Cavitación seca,MAL ESTADO RUEDA MOTRIZ Y TENSOR,Buje cadena,"CDNA ELEVADOR FB 994-K443-C2-P7""",FB 994,Desgaste,1.1,883
+CADENA,HOLCIM,MERIDA,MEXICO,MERIDA,Elevador cangilones,CLINKER,Otros,FALTA DE COMPONENTE (ARANDELAS TOPE),Pasador cadena,CDNA ELEVADOR FB AU06.3 C2 P7,FB AU06.3,Elongación,0.14,278
+CADENA,HOLCIM,HERMOSILLO,MEXICO,HERMOSILLO,Tansportador de tablilla,CLINKER,Otros,SPROCKET MOTRIZ EN MAL ESTADO,Platina Interna,CDNA FB TRANS AU8076-C5-P250,FB 8076 ,Elongación,0.18,499
+CADENA,CEMEX,CALZADA LARGA,PANAMÁ,CAIMITILLO,Elevador cangilones,COMBUSTIBLES ALTERNOS,Velocidad incorrecta;Desalineación,No Aplica,Pasador cadena,CDNA FB 833-K2-C3-P6,FB 833,Elongación,0.45,19
+CADENA,HOLCIM,TECOMÃN,MEXICO,COLIMA,Elevador cangilones,CEMENTO,Cavitación seca,No Aplica,Buje cadena,"CDNA ELEVADOR FB 984-K443-C2-P7""",FB 984,Desgaste,0.47,140
+CADENA,ARGOS,ZONA FRANCA,COLOMBIA,CARTAGENA,Elevador cangilones,CLINKER,Desalineación;Cavitación seca;Otros,MALAS PRÃCTICA DEL CLIENTE,Platina Interna;Pasador cadena,ER 857-K44,ER 857,Elongación,0.22,178
+CADENA,INGENIO MANUELITA,COLOMBIA,COLOMBIA,CALI,Tansportador de tablilla,CAÑA,No Aplica,Tiempo de uso,N/A;Pasador cadena,"CDNA FB 2648-P12""",FB 2648,Elongación,1.77,894
+CADENA,HOLCIM COLOMBIA,HOLCIM COLOMBIA - NOBSA,COLOMBIA,NOBSA,Elevador cangilones,CLINKER,Medidas fuera de especificación,No Aplica,Platina Interna;Pasador cadena,"CDNA FB 984 ADIT K443-C2-P7""",FB 984 ,Elongación,0.88,592
+CADENA,ARGOS,PAZ DEL RIO,COLOMBIA,SOGAMOSO,Elevador cangilones,HARINA CRUDA,Ruptura,No Aplica,Platina Externa,CDNA ELEV FB 26200-G4-C2-P200,FB 26200,Elongación,0.5,806
